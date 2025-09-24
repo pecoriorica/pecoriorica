@@ -1,3 +1,3 @@
-# PECORIORICA
+# mayasyocyo
 ---
 * @pecoriorica
